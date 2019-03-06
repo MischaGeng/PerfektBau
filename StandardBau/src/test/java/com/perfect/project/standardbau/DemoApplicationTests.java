@@ -1,4 +1,4 @@
-package com.standard.project.demo;
+package com.perfect.project.standardbau;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

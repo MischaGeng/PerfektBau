@@ -1,13 +1,13 @@
-package com.standard.project.demo;
+package com.perfect.project.algobau;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class AlgoBauApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(AlgoBauApplication.class, args);
     }
 
 }
