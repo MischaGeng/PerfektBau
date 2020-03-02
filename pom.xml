@@ -14,6 +14,8 @@
     <modules>
         <module>AlgoBau</module>
         <module>StandardBau</module>
+        <module>Springmybatis</module>
+        <module>swagger-doc-util</module>
     </modules>
 
     <properties>
