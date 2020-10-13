@@ -34,7 +34,7 @@
         <asciidoctor.pdf.output.directory>${project.build.directory}/asciidoc/pdf</asciidoctor.pdf.output.directory>
 
         <!-- 测试 -->
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
 
 
     </properties>
